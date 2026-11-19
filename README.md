@@ -56,28 +56,27 @@ The R² evaluation further provided insight into how effectively the individual 
 
 The experimental results are illustrated in the following figures.
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/495053fe-286b-4bb5-98c1-81c2c65e379f"
-    width="794"
-    alt="Comparative MSE evaluation of regression models"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github.com/user-attachments/assets/495053fe-286b-4bb5-98c1-81c2c65e379f"
+        width="100%"
+        alt="Comparative MSE evaluation of regression models"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github.com/user-attachments/assets/93c6ffd8-3312-45c1-afd4-7260c8501682"
+        width="100%"
+        alt="Comparative R-squared evaluation of regression models"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <em>Figure 2. Comparative evaluation of regression models using Mean Squared Error (MSE).</em>
-</p>
-
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/93c6ffd8-3312-45c1-afd4-7260c8501682"
-    width="794"
-    alt="Comparative R-squared evaluation of regression models"
-  />
-</p>
-
-<p align="center">
-  <em>Figure 3. Comparative evaluation of regression models using the Coefficient of Determination (R²).</em>
+  <em>Figures 2 and 3. Comparative evaluation of regression models using (left) Mean Squared Error (MSE) and (right) the Coefficient of Determination (R²).</em>
 </p>
 
 Based on the comparative evaluation, the Random Forest Regressor was identified as the best-performing model among those considered, based on its achieved MSE.
