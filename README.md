@@ -1,5 +1,7 @@
 # FairFareAI: An Intelligent Ride Service Recommendation and Fair Surge-Pricing Framework
 
+https://github.com/user-attachments/assets/2e5f428d-db72-41cf-9d91-aeeea46b3476
+
 ## 1. Overview
 
 FairFareAI is an intelligent, data-driven ride service recommendation framework designed to improve transparency in dynamic ride pricing while addressing the ethical implications of surge pricing under exceptional circumstances.
